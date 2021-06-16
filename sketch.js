@@ -44,7 +44,7 @@ function draw() {
   background(230);
   textSize(30);
   fill(0, 102, 153);
-  text("Up Arrow:1 Ball       Down Arrow:2 Balls",150,150);
+  text("Up Arrow:1 Bob       Down Arrow:2 Bobs",150,150);
   roofObject.display();
 
   rope1.display();
